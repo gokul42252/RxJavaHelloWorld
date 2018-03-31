@@ -1,5 +1,5 @@
 <h1>Reactive Hello world application in android</h1>
-[amazon_link asins='1787120422,B073L5JB27,9352134664,B071VG1VY9,1484214293,1489138714,B0784QQV4W,1617293369,1784399108' template='ProductCarousel' store='200' marketplace='IN' link_id='876b4fd7-34b2-11e8-995c-8d997d268cd1']
+
 <h3 id="adding-rxjava-2-to-a-java-project">Adding RxJava 2 library  to a Java project in Android Studio</h3>
 <div class="paragraph">
 
@@ -82,9 +82,7 @@ in <span>onNext</span>(String s)  we setting text to a textview.
 
 &nbsp;
 
-[amazon_link asins='B073L5JB27,B071VG1VY9,9352134664,1784399108,1617293369,1484214293,1489138714,B0784QQV4W' template='ProductCarousel' store='200' marketplace='IN' link_id='4bf67258-34b4-11e8-a360-3b18a361139d']
 
-Get Full Source code From <a href="https://github.com/gokul42252/RxJavaHelloWorld">Github</a>
 
 Thanks Happy coding :D
 
